@@ -1,8 +1,6 @@
-# 5007436_Cognizant_Srijoni-Chakraborty
+# Java Full Stack Development Learning with Projects
 
-# Cognizant DN Java FSE Assignment Submission
-
-Welcome to my submission repository for the **Cognizant DN Java FSE Assignment**. This repository contains the solutions and code implementations for various exercises and projects completed as part of the Java Full Stack Engineer training program.
+Welcome to my submission repository for the Cognizant DN Java FSE Assignment. This repository contains the solutions and code implementations for various exercises and projects completed as part of the Java Full Stack Engineer training program.
 
 ## Repository Structure
 
@@ -19,7 +17,7 @@ Each folder contains the relevant code files, documentation, and any additional 
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/srijonichakraborty/5007436_Cognizant_Srijoni-Chakraborty.git
+   git clone https://github.com/srijonichakraborty/Java-Full-Stack-Development-Learning-with-Projects.git
    
 2. **Navigate to the Desired Week:** Go into the folder of the specific week or exercise you want to explore.
    (E.g., cd Week_1_Exercises)
